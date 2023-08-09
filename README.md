@@ -6,6 +6,9 @@ Exploring customer reviews of British Airways to uncover valuable insights about
 ### Task:
 My task is to analyze the customer reviews of British Airways to understand their sentiments towards various aspects of their travel experiences, such as service, food, seats, and the crew. Additionally, I will explore the trends in review counts over the years and identify areas for potential improvement based on customer feedback.
 
+### Prepare:
+To begin my analysis, I collected customer reviews from the Skytrax website using web scraping techniques. For that used Python libraries such as Requests and BeautifulSoup.
+
 ### Steps:
 1. Scraping Data from Skytrax
 2. Cleaning and preprocessing the text data
