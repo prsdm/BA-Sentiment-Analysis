@@ -1,11 +1,24 @@
 # BA-Sentiment-Analysis
 
-### Objective
-The customer review data was analysed to uncover insights about customer behaviour. This involved performing sentiment analysis to understand customer's feelings about their experience with British Airways.
+### Introduction
+Exploring customer reviews of British Airways to uncover valuable insights about their sentiments and their experiences. By applying data processing, sentiment analysis, and visualization techniques.
 
-### About Datasets
-In this project, the BeautifulSoup package was used in Python to extract the reviews from the Skytrax website. Once all the required data was collected, the resulting dataframe was saved as a .csv file for future use.
+### Task:
+My task is to analyze the customer reviews of British Airways to understand their sentiments towards various aspects of their travel experiences, such as service, food, seats, and the crew. Additionally, I will explore the trends in review counts over the years and identify areas for potential improvement based on customer feedback.
 
-### Programming Language
-* Python
+### Steps:
+1. Scraping Data from Skytrax
+2. Cleaning and preprocessing the text data
+3. Analyzing the data
+4. Visualization in [Tableau](https://public.tableau.com/app/profile/prasad.mahamulkar/viz/HowCustomersFeelAbouttheBritishAirways/Dashboard1)
+
+### Act:
+Based on my analysis, British Airways can consider the following actions:
+
+1. **Enhance Service Quality:** Address any service-related concerns raised by customers to ensure a consistently positive experience.
+2. **Cater to Food Preferences:** Improve food offerings based on customer feedback to cater to diverse preferences and enhance satisfaction.
+3. **Focus on Crew Interactions:** Train staff to provide exceptional customer service and ensure positive interactions with passengers.
+
+By acting on these insights, British Airways can further elevate its customer experience and strengthen its position in the competitive airline industry.
+
 
